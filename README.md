@@ -6,7 +6,7 @@
 </p>
 
 ## 📌 Sobre o Projeto
-Este repositório apresenta o protótipo de alta fidelidade desenvolvido para o **Banco Capitalis**, focado em uma experiência mobile fluida, moderna e segura para serviços bancários essenciais.
+Este repositório apresenta um protótipo de alta fidelidade desenvolvido para o **Banco Capitalis**, focado em uma experiência mobile fluida, moderna e segura para serviços bancários essenciais feito para um projeto em grupo da faculdade.
 
 ## 🎨 Fluxo de Telas (UI/UX)
 
