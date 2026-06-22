@@ -15,7 +15,7 @@ Para garantir uma interface limpa e intuitiva, mapeamos as principais interaçõ
 ### 1. Autenticação e Acesso
 | Tela de Boas-Vindas | Identificação da Conta |
 | :---: | :---: |
-| <img src="./assets/screen-welcome.jpg" width="280px" alt="Boas-vindas"> | <img src="./assets/screen-login-step.jpg" width="280px" alt="Identificação"> |
+| <img src="./assets/screen-welcome.jpg" width="280px" alt="Boas-vindas"> | <img src="./assets/screen-login-step.png" width="280px" alt="Identificação"> |
 
 ### 2. Área Logada (Dashboard)
 Abaixo está o design do painel principal, centralizando as funções do dia a dia do usuário, como Pix, extrato e investimentos.
